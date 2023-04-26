@@ -10,7 +10,7 @@
 /.gradle/
 /build/
 /emoji/
-/gradle/wrapper/
+/gradle/
 /gradlew
 /gradlew.bat
 /sinon-1.0-all.jar
