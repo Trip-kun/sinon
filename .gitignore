@@ -2,6 +2,7 @@
 ./build
 ./emoji
 ./sinon-1.0-all.jar
+./gradle
 ./gradlew
 ./gradlew.bat
 /.idea/
@@ -9,6 +10,7 @@
 /.gradle/
 /build/
 /emoji/
+/gradle/
 /gradlew
 /gradlew.bat
 /sinon-1.0-all.jar
